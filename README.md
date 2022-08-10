@@ -1,7 +1,7 @@
 # Dependency graph generator
 A tool to generate dependency graphs for Gradle-based projects hosted on an organization's GitLab.
 
-It uses GitLab API to fetch project data from repositories and Graphviz to draw thr graphs.
+It uses GitLab API to fetch project data from repositories and Graphviz to draw the graphs.
 
 ## Install
 
